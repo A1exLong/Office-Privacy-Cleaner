@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+tests/
+*.spec
+.test-work/
+*.tmp
+*_clean.*
+*.clean-report.json
+OfficePrivacyCleaner.spec
+pyproject.toml

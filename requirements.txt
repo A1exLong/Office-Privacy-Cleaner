@@ -1,0 +1,2 @@
+lxml>=5.3,<7
+pywin32>=308; sys_platform == "win32"
